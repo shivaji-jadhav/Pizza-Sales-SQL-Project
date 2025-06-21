@@ -25,8 +25,8 @@ This project analyzes pizza sales using SQL to uncover insights such as total re
 | pizza 6.sql   | Top 5 pizza types by quantity ordered         |
 | pizza 7.sql   | Category-wise total quantity sold             |
 | pizza 8.sql   | Hourly distribution of customer orders        |
-| pizza 10.sql| Average pizzas ordered per day                         |
-| `pizza 11.sql`| Top 3 pizza types based on revenue                     |
+| pizza 10.sql  | Average pizzas ordered per day                |
+| pizza 11.sql  | Top 3 pizza types based on revenue            |
 
 ---
 
@@ -39,6 +39,7 @@ This project analyzes pizza sales using SQL to uncover insights such as total re
 
 ## 👨‍💻 Author
 
+
 **Shivaji Jadhav**  
-📫 Email: shivajijadhav9255@gmail.com
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shivaji-jadhav-b0b565289))
+📧 Email: [shivajijadhav9255@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivaji-jadhav-b0b565289)  
